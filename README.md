@@ -50,11 +50,11 @@ Modify function:
 
 Modifies a value in an existing record.
 
-1)Use the search function to bring up a record.
+1) Use the search function to bring up a record.
 
-2)Then select the field you would like to change
+2) Then select the field you would like to change
 
-3)Then make changes to the value in that field
+3) Then make changes to the value in that field
 
 4) Select the modify button to update the database sheet with the value
 
