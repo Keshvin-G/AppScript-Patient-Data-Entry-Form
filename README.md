@@ -94,6 +94,14 @@ Selecting the Clear button resets all fields in the from, allowing you to search
 
 
 
+*important*
+DO NOT DELETE THE "Departments" SUPPORT SHEET:
+The support sheet provides the value range for the department drop down field.
+you can change the values in this sheet to suit your needs, however it is required for the drop down menu to work.
+
+
+
+
 Tutorial Used:
 https://youtu.be/Q-Io0Y59nYA
 
