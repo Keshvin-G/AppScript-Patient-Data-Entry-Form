@@ -10,6 +10,40 @@ https://youtu.be/v0ngFqEMv1g
 How to connect google sheet to big query:
 https://youtu.be/KAJ0c0O4TQY
 
+
+
+Form Layout:
+![image](https://user-images.githubusercontent.com/51284025/132168932-98e1346a-6542-40a4-8dcc-fe9ef29064ec.png)
+
+
+
+Application Functions:
+
+Search function:
+Search function queries database sheet based on patient social security number.
+Enter a social security number in the database sheet to bring up the record.
+
+Save function:
+The save function updates the database sheet with the values in the form fields. 
+when you enter a completed patient record, the database sheet is updated accordingly
+
+Modify function:
+Modifies a value in an existing record.
+1)Use the search function to bring up a record.
+2)Then select the field you would like to change
+3)Then make changes to the value in that field
+5) Select the modify button to update the database sheet with the value
+
+Delete Function:
+Deletes a record from the database sheet.
+1) Use the search button to bring up a record
+2) Select the delete button to remove the record from the database sheet
+
+Clear function:
+Clears all fields in the data entry form.
+Selecting the Clear button resets all fields in the from, allowing you to search or make a new entry.
+
+
 Tutorial Used:
 https://youtu.be/Q-Io0Y59nYA
 
@@ -18,8 +52,4 @@ Development process:
 https://youtu.be/Z1JPGX2tTV0
 
 made on 04/09/2021 by Keshvin Gnaneswaren
-
-
-Form Layout:
-![image](https://user-images.githubusercontent.com/51284025/132168932-98e1346a-6542-40a4-8dcc-fe9ef29064ec.png)
 
