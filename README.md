@@ -2,13 +2,13 @@
 AppScript Source Code for Google Sheets CRUD Form Application
 
 Form location:
-https://docs.google.com/spreadsheets/d/1849FrtwE8LF_aHMFcZWfvDnUuaPaVUtfLlwm-I8NNfU/edit?usp=sharing
+> https://docs.google.com/spreadsheets/d/1849FrtwE8LF_aHMFcZWfvDnUuaPaVUtfLlwm-I8NNfU/edit?usp=sharing
 
 In use as a front end for big query:
-https://youtu.be/v0ngFqEMv1g
+> https://youtu.be/v0ngFqEMv1g
 
 How to connect google sheet to big query:
-https://youtu.be/KAJ0c0O4TQY
+> https://youtu.be/KAJ0c0O4TQY
 
 
 
@@ -48,15 +48,11 @@ Save function:
 
 Modify function:
 
-Modifies a value in an existing record.
-
-1) Use the search function to bring up a record.
-
-2) Then select the field you would like to change
-
-3) Then make changes to the value in that field
-
-4) Select the modify button to update the database sheet with the value
+> Modifies a value in an existing record.
+> 1) Use the search function to bring up a record.
+> 2) Then select the field you would like to change
+> 3) Then make changes to the value in that field
+> 4) Select the modify button to update the database sheet with the value
 
 
 
@@ -68,11 +64,9 @@ Modifies a value in an existing record.
 
 Delete Function:
 
-Deletes a record from the database sheet.
-
-1) Use the search button to bring up a record
-
-3) Select the delete button to remove the record from the database sheet
+> Deletes a record from the database sheet.
+> 1) Use the search button to bring up a record
+> 3) Select the delete button to remove the record from the database sheet
 
 
 
@@ -105,11 +99,11 @@ Clear function:
 
 
 Tutorial Used:
-https://youtu.be/Q-Io0Y59nYA
+> https://youtu.be/Q-Io0Y59nYA
 
 
 Development process:
-https://youtu.be/Z1JPGX2tTV0
+> https://youtu.be/Z1JPGX2tTV0
 
 made on 04/09/2021 by Keshvin Gnaneswaren
 
