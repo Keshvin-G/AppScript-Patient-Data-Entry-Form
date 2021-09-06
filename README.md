@@ -24,10 +24,16 @@ Search function:
 Search function queries database sheet based on patient social security number.
 Enter a social security number in the database sheet to bring up the record.
 
+
+
+
 Save function:
 
 The save function updates the database sheet with the values in the form fields. 
-when you enter a completed patient record, the database sheet is updated accordingly
+when you enter a completed patient record and select the Save button, the database sheet is updated accordingly.
+
+
+
 
 Modify function:
 
@@ -40,6 +46,10 @@ Modifies a value in an existing record.
 
 4) Select the modify button to update the database sheet with the value
 
+
+
+
+
 Delete Function:
 
 Deletes a record from the database sheet.
@@ -47,6 +57,9 @@ Deletes a record from the database sheet.
 1) Use the search button to bring up a record
 
 3) Select the delete button to remove the record from the database sheet
+
+
+
 
 Clear function:
 
