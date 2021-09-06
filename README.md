@@ -5,7 +5,7 @@ Form location:
 > https://docs.google.com/spreadsheets/d/1849FrtwE8LF_aHMFcZWfvDnUuaPaVUtfLlwm-I8NNfU/edit?usp=sharing
 
 In use as a front end for big query:
-> https://youtu.be/v0ngFqEMv1g
+> https://youtu.be/IN8d4lD88is 
 
 How to connect google sheet to big query:
 > https://youtu.be/KAJ0c0O4TQY
