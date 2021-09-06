@@ -25,8 +25,8 @@ Application Functions:
 
 Search function:
 
-Search function queries database sheet based on patient social security number.
-Enter a social security number in the database sheet to bring up the record.
+> Search function queries database sheet based on patient social security number.
+> Enter a social security number in the database sheet to bring up the record.
 
 
 
@@ -36,8 +36,8 @@ Enter a social security number in the database sheet to bring up the record.
 
 Save function:
 
-The save function updates the database sheet with the values in the form fields. 
-when you enter a completed patient record and select the Save button, the database sheet is updated accordingly.
+> The save function updates the database sheet with the values in the form fields. 
+> when you enter a completed patient record and select the Save button, the database sheet is updated accordingly.
 
 
 
@@ -83,8 +83,8 @@ Deletes a record from the database sheet.
 
 Clear function:
 
-Clears all fields in the data entry form.
-Selecting the Clear button resets all fields in the from, allowing you to search or make a new entry.
+> Clears all fields in the data entry form.
+> Selecting the Clear button resets all fields in the from, allowing you to search or make a new entry.
 
 
 
@@ -95,9 +95,11 @@ Selecting the Clear button resets all fields in the from, allowing you to search
 
 
 *important*
-DO NOT DELETE THE "Departments" SUPPORT SHEET:
-The support sheet provides the value range for the department drop down field.
-you can change the values in this sheet to suit your needs, however it is required for the drop down menu to work.
+
+> DO NOT DELETE THE "Departments" SUPPORT SHEET:
+> The support sheet provides the value range for the Department drop down field.
+> Sheet name and values are editable.
+> It is required for the drop down menu to work.
 
 
 
