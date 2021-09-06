@@ -49,6 +49,7 @@ when you enter a completed patient record and select the Save button, the databa
 Modify function:
 
 Modifies a value in an existing record.
+
 1)Use the search function to bring up a record.
 
 2)Then select the field you would like to change
