@@ -91,10 +91,10 @@ Clear function:
 
 *important*
 
-> DO NOT DELETE THE "Departments" SUPPORT SHEET:
-> The support sheet provides the value range for the Department drop down field.
-> Sheet name and values are editable.
-> It is required for the drop down menu to work.
+> 1) DO NOT DELETE THE "Departments" SUPPORT SHEET:
+> 2) The support sheet provides the value range for the Department drop down field.
+> 3) Sheet name and values are editable.
+> 4) It is required for the drop down menu to work.
 
 
 
