@@ -26,7 +26,8 @@ Application Functions:
 Search function:
 
 > Search function queries database sheet based on patient social security number.
-> Enter a social security number in the database sheet to bring up the record.
+> Enter a social security number in the search field
+> Select the Search button to bring up a record.
 
 
 
